@@ -3,6 +3,8 @@
 "about_url": "about:blank",
 "license_url": "about:blank",
 "component": true
+"authors": "Chaboi_3000",
+"theme_version": "1",
 "assets": {
-   "icons-sprite": "/assets/oldm.svg",
+   "icons-sprite": "/assets/oldm.svg"
 }
