@@ -1,11 +1,12 @@
+{
+   "name": "Old FA4 Mod icon",
+   "about_url": "about:blank",
+   "license_url": "about:blank",
+   "assets": {
+      "icons-sprite": "/assets/oldm.svg"
+   },
 
-"name": "Old FA4 Mod icon",
-"about_url": "about:blank",
-"license_url": "about:blank",
-"assets": {
-   "icons-sprite": "/assets/oldm.svg"
-},
-
-"component": true,
-"authors": "Chaboi_3000",
-"theme_version": "1"
+   "component": true,
+   "authors": "Chaboi_3000",
+   "theme_version": "1"
+}
