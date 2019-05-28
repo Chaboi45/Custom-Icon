@@ -3,7 +3,7 @@
    "about_url": "about:blank",
    "license_url": "about:blank",
    "assets": {
-      "old": "/assets/old.svg"
+      "icons-sprite": "/assets/old.svg"
    },
 
    "component": true,
