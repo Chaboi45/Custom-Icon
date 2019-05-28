@@ -1,1 +1,1 @@
-# RemoveModIcon
+# Old mod icon
